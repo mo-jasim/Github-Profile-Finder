@@ -1,4 +1,4 @@
-# Check it out here: [http://developer-detective.jasim.io/]
+Check it out here: [http://developer-detective.jasim.io/]
 
 The GitHub Profile Finder is a web application that allows users to search for and display detailed GitHub profile information by simply entering a username. This tool is built to quickly fetch and present essential data from the GitHub API, including repositories, followers, following, and other key metrics, providing a user-friendly way to explore profiles without needing to visit GitHub directly.
 
