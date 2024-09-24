@@ -4,15 +4,22 @@ The GitHub Profile Finder is a web application that allows users to search for a
 
 Key Features:
 Real-time Search: Instantly retrieves and displays GitHub user profiles by querying the GitHub APIbased on the inputted username.
+
 Profile Data Display: Displays core information like username, profile picture, bio, number of repositories, followers, following, company, linkedIn, website and location.
+
 Repositories Overview: Provides a list of the user’s public repositories, including their name, description, and the number of stars.
+
 Error Handling: Informs users when a profile is not found or when an invalid username is entered.
+
 Responsive Design: The application is designed to work seamlessly across different devices, ensuring a smooth experience on both desktop and mobile platforms.
 
 Technologies Used: -
 HTML5 for creating the structure of the web application.
+
 CSS3 for responsive design and styling, ensuring a clean and modern look.
+
 JavaScript (ES6) for handling dynamic content and user interactions.
+
 GitHub API for fetching and displaying user data in real time.
 
 How to Run:-
