@@ -32,10 +32,15 @@ How to Run:-
 3. Enter a GitHub username in the search bar to view the profile details.
 
 Future Enhancements: -
+
 Adding pagination to handle large sets of repositories or followers.
+
 Implementing sorting and filtering options for repositories (e.g., by stars or forks).
+
 Integrating additional GitHub data such as recent contributions and commit history.
+
 Enhancing the UI with animations and additional visual elements for a more engaging experience.
 
 Contributions: -
+
 Contributions, issues, and feature requests are always welcome! Feel free to fork this repository, submit pull requests, or open an issue if you encounter any problems or have suggestions for improvements.
