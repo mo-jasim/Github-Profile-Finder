@@ -22,7 +22,7 @@ The **GitHub Profile Finder** is a web application that allows users to search f
 ### How to Run:
 1. Clone the repository:
    ```bash
-   https://github.com/Jasim-ansari-23/Github-Profile-Finder.git
+   https://github.com/mo-jasim/Github-Profile-Finder.git
    ```
 2. Navigate to the project directory and open the `index.html` file in your preferred browser.
 3. Enter a GitHub username in the search bar to view the profile details.
